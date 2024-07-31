@@ -54,3 +54,30 @@
 
     </body>
 </html>
+
+table {
+                width: 30%;
+                border-collapse: collapse;
+            }
+            table, th, td {
+                border: 5px solid whitesmoke;
+            }
+            th, td {
+                padding: 15px;
+                text-align: center;
+            }
+            th {
+                background-color: rgba(0, 0, 255, 0.377);
+            }
+            h1 {
+                color : rgba(0, 0, 255, 0.377)
+
+            }
+            h2 {
+                font-style: italic;
+                font-size:x-large;
+                text-decoration: underline;
+            }
+            body {
+                background-image: image();
+            }
